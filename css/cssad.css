@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.main {
+    width: 100%;
+}
+
+.ad-menu {
+    width: 100%;
+    height: 75px;
+    display: flex;
+}
+
+.ad-menu .ad-left {
+    width: 50%;
+    height: inherit;
+    background-color: #3A4651;
+}
+
+.ad-menu .ad-right {
+    width: 40%;
+    height: inherit;
+    background-color: #D7DDE4;
+}
